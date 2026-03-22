@@ -1,5 +1,3 @@
 # zs-data-rxnorm
 
-> ZarishSphere terminology/data: rxnorm
-
-Part of ZarishSphere Platform.
+Generated directly from internal PRD specification.
